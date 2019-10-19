@@ -5,3 +5,8 @@ print ("halo")
 # git add.
 # git commit -m "tambah_file"
 # git push -u origin master
+
+# git status
+# git add nama_file.py
+# git commit -m "tambah_file"
+# git push -u origin master
