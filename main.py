@@ -13,3 +13,8 @@ print ("halo")
 
 # git clone // project baru
 # git pull // update
+
+# pelican // fungsi untuk memanggil compiler
+# pelican --listen // memunculkan file hasil compiler
+# pelican --autoreload  // mereload kembali file
+# localhost:8000 // membuka file pada browser
